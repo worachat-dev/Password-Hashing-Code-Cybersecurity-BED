@@ -1,7 +1,3 @@
-Certainly! Here's a sample `README.md` for the provided Python password authentication project:
-
----
-
 # Password Authentication using Python
 
 This project demonstrates a simple password authentication system using Python. The system securely hashes passwords and verifies user credentials against stored hashed passwords. It uses the PBKDF2 HMAC algorithm with SHA-256 for hashing and includes a unique salt for each password to enhance security.
@@ -78,8 +74,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Inspired by tutorials from [clcoding.com](https://clcoding.com)
-
----
-
-Feel free to customize the `README.md` with more details specific to your project or any additional instructions and information you want to include.
+- Inspired by tutorials from [Worachat W.](https://github.com/worachat-dev)

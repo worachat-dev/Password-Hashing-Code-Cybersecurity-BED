@@ -19,8 +19,8 @@ This project demonstrates a simple password authentication system using Python. 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/password-authentication-python.git
-cd password-authentication-python
+git clone https://github.com/worachat-dev/Password-Hashing-Code-Cybersecurity-BED.git
+cd Password-Hashing-Code-Cybersecurity-BED
 ```
 
 ### Running the Program
@@ -28,7 +28,7 @@ cd password-authentication-python
 To run the program, execute the following command:
 
 ```bash
-python authentication.py
+python my_password_hashing_code_in_cybersecurity.py
 ```
 
 You will be prompted to enter your username and password:
